@@ -1,5 +1,5 @@
 # LeetCode1
-* 作者：张望舒
+* 作者：youblue
 * 版本：2018-02-12
 
 # 题⽬描述Two Sum
